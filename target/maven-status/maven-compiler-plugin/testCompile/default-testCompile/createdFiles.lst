@@ -1,0 +1,8 @@
+CommanUse\lauchingBrowse.class
+StepDefinitions\orangeHRMloginValidation.class
+StepDefinitions\orangeHRMSingleton.class
+CommanUse\BrowerLaunch.class
+Runner\runnerAutoSelenium.class
+StepDefinitions\loginpageValidation.class
+Hooks\BasicHooksClass.class
+StepDefinitions\loginpagesingeltonValidation.class
